@@ -1,6 +1,3 @@
 # JavaScript Compressor Using UglifyJs
 
-
-
-npm i @node-minify/uglify-js
-npm i @node-minify/core
+Its an example you can use Google Closure Compiler too by changing compressor to gcc
